@@ -1,0 +1,3 @@
+/home/marco/Documents/Programming/C++/RotatingCube/cmake-build-debug/CMakeFiles/RotatingCube.dir
+/home/marco/Documents/Programming/C++/RotatingCube/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marco/Documents/Programming/C++/RotatingCube/cmake-build-debug/CMakeFiles/rebuild_cache.dir
